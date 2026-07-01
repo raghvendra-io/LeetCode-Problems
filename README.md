@@ -8,10 +8,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -29,4 +31,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
