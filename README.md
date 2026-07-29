@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0875-koko-eating-bananas](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -42,6 +43,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0202-happy-number) |
 ## Divide and Conquer
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
