@@ -13,6 +13,7 @@
 | [1652-defuse-the-bomb](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Counting Sort
 |  |
 | ------- |
