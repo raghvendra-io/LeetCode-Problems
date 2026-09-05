@@ -26,6 +26,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1362-closest-divisors](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1362-closest-divisors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0344-reverse-string) |
+## Prime Factorization
+|  |
+| ------- |
+| [1362-closest-divisors](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1362-closest-divisors) |
 <!---LeetCode Topics End-->
