@@ -12,6 +12,7 @@
 | [0152-maximum-product-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0875-koko-eating-bananas](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
@@ -26,6 +27,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0930-binary-subarrays-with-sum](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
@@ -39,11 +41,13 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Linked List
 |  |
