@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -68,6 +69,7 @@
 | [0011-container-with-most-water](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0143-reorder-list) |
@@ -83,6 +85,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -138,6 +141,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -228,4 +232,8 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
