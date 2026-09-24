@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0202-happy-number) |
@@ -84,6 +86,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -164,6 +167,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -202,6 +206,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
