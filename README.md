@@ -62,6 +62,7 @@
 | [0143-reorder-list](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1367-linked-list-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1367-linked-list-in-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -218,6 +221,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1367-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
