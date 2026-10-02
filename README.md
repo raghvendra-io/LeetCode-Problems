@@ -187,6 +187,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -209,6 +210,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -235,6 +237,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -287,4 +290,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
