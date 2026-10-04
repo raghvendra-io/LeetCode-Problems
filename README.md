@@ -36,6 +36,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
@@ -128,6 +129,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
@@ -135,6 +137,7 @@
 | [0125-valid-palindrome](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 ## Prime Factorization
 |  |
 | ------- |
