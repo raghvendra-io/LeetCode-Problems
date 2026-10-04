@@ -13,7 +13,7 @@ class Solution {
         answer = Math.min(answer , map.getOrDefault('l' , 0) / 2);
         answer = Math.min(answer , map.getOrDefault('o' , 0) / 2);
         answer = Math.min(answer , map.getOrDefault('n' , 0));
-        answer = Math.min(answer , map.getOrDefault('a' , 0));
+        
         
 
         return answer;
