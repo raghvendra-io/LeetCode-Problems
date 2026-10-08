@@ -46,6 +46,7 @@
 | [0012-integer-to-roman](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1362-closest-divisors](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1362-closest-divisors) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 ## Tree
 |  |
