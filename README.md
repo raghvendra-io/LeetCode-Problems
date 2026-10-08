@@ -145,6 +145,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 ## Prime Factorization
 |  |
@@ -170,6 +171,7 @@
 | [0143-reorder-list](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -321,4 +323,8 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
