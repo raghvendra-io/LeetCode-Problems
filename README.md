@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Counting Sort
@@ -147,6 +148,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -327,4 +330,5 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
