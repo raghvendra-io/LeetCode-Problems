@@ -23,6 +23,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0875-koko-eating-bananas](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0075-sort-colors](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -131,6 +134,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |
@@ -157,6 +161,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
