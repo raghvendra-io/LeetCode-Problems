@@ -24,6 +24,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -336,4 +337,8 @@
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
