@@ -56,6 +56,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1362-closest-divisors](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1362-closest-divisors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
 |  |
@@ -141,6 +142,7 @@
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
