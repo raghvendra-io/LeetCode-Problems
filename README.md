@@ -196,6 +196,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Tree
 |  |
