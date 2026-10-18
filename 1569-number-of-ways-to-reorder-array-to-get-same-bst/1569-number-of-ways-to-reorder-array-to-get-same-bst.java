@@ -1,0 +1,64 @@
+
+class Solution {
+    static final int MOD = 1_000_000_007;
+    long[][] comb;
+
+    public int numOfWays(int[] nums) {
+        int n = nums.length;
+
+        comb = new long[n + 1][n + 1];
+
+        for (int i = 0; i <= n; i++) {
+            comb[i][0] = comb[i][i] = 1;
+
+            for (int j = 1; j < i; j++) {
+                comb[i][j] =
+                    (comb[i - 1][j - 1]
+                    + comb[i - 1][j]) % MOD;
+            }
+        }
+
+        java.util.List<Integer> list =
+            new java.util.ArrayList<>();
+
+        for (int num : nums) {
+            list.add(num);
+        }
+
+        return (int) ((ways(list) - 1 + MOD) % MOD);
+    }
+
+    private long ways(java.util.List<Integer> nums) {
+        int n = nums.size();
+
+        if (n <= 2) {
+            return 1;
+        }
+
+        int root = nums.get(0);
+
+        java.util.List<Integer> left =
+            new java.util.ArrayList<>();
+
+        java.util.List<Integer> right =
+            new java.util.ArrayList<>();
+
+        for (int i = 1; i < n; i++) {
+            int num = nums.get(i);
+
+            if (num < root) {
+                left.add(num);
+            } else {
+                right.add(num);
+            }
+        }
+
+        long combinations = comb[n - 1][left.size()];
+
+        long leftWays = ways(left);
+        long rightWays = ways(right);
+
+        return (((combinations * leftWays) % MOD)
+                * rightWays) % MOD;
+    }
+}
