@@ -33,6 +33,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -369,6 +372,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
