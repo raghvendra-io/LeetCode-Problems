@@ -178,6 +178,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prime Factorization
 |  |
 | ------- |
