@@ -31,6 +31,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3886-sum-of-sortable-integers) |
@@ -217,6 +218,7 @@
 | [0371-sum-of-two-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Tree
 |  |
 | ------- |
