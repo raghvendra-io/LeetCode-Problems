@@ -36,6 +36,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -131,6 +132,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -412,4 +415,5 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
