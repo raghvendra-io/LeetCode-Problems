@@ -126,6 +126,7 @@
 | [0053-maximum-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0190-reverse-bits](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -232,6 +233,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
