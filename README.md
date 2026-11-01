@@ -241,6 +241,7 @@
 | [0268-missing-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0693-binary-number-with-alternating-bits](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
