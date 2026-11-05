@@ -24,6 +24,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1652-defuse-the-bomb](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -126,6 +127,7 @@
 | [0202-happy-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
@@ -168,6 +171,7 @@
 | [0268-missing-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
