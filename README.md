@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0231-power-of-two) |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0344-reverse-string) |
