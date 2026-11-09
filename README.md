@@ -73,6 +73,7 @@
 | [0012-integer-to-roman](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0344-reverse-string) |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
@@ -468,4 +471,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
