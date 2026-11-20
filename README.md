@@ -86,6 +86,7 @@
 | [0231-power-of-two](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -168,6 +169,7 @@
 | [0053-maximum-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0343-integer-break](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0343-integer-break) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
