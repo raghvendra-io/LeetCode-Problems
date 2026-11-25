@@ -353,6 +353,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -405,6 +406,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
+| [0547-number-of-provinces](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -414,6 +416,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -508,6 +511,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/raghvendra-io/LeetCode-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
